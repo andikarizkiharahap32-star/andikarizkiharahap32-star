@@ -10,5 +10,13 @@
 ![](https://streak-stats.demolab.com/?user=andikarizkiharahap32-star&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=andikarizkiharahap32-star&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andikarizkiharahap32-star/andikarizkiharahap32-star/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andikarizkiharahap32-star/andikarizkiharahap32-star/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andikarizkiharahap32-star/andikarizkiharahap32-star/output/pacman-contribution-graph.svg">
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
