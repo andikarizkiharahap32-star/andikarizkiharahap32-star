@@ -1,3 +1,6 @@
+[Hello Guys]
+!(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXR2ZTFlMDBoMWR6NXQyZnF6eDA1eWFmNmN5dGQ2bGtpeW9wdjdwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iNPNqI81MvDQ4D4n6D/giphy.gif)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/easterdzolldyk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/andikarizkkk) 
